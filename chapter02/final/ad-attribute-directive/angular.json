@@ -116,7 +116,6 @@
       }
     }
   },
-  "defaultProject": "ad-attribute-directive",
   "cli": {
     "analytics": false
   }
